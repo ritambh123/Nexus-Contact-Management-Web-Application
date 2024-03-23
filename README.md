@@ -50,4 +50,4 @@ Our Contact Nexus Web application is a Django project. It is a full featured web
 - Django (Python Web framework)
 - SQLite 3
 
-**Copyright (c)** Nexus Contact Manageemnt System 2024, Developed By Ritam.
+**Copyright (c)** Nexus Contact Manageemnt System 2024, Developed By Ritam. USE THIS PROJECT FOR EDUCATIONAL PURPOSES ONLY. NOT LIABLE FOR ANY DAMAGE, AND IT DOES NOT INCLUDE ANY WARRANTY.
