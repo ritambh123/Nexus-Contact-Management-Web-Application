@@ -10,7 +10,7 @@ Our Contact Nexus Web application is a Django project. It is a full featured web
 
 # Installation process
 
-**After downloading or cloning follow these instructions**
+**After downloading or cloning follow these instructions - FOR OFFLINE USE** 
 
 **Go to project files**
 
